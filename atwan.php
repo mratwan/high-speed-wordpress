@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       High Speed
- * Plugin URI:        https://www.atwan.ir/wordpress/plugins/highspeed-wordpress
+ * Plugin URI:        https://www.atwan.ir/projects/wordpress/plugin/high-speed-wordpress
  * Description:       Turn your WordPress into a fast website.
  * Version:           1.0.0
  * Author:            Mohammadreza Atwan
